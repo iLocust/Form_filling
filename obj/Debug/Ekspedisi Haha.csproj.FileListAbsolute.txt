@@ -1,0 +1,28 @@
+C:/Users/JARVIS/source/repos/Ekspedisi Haha/Ekspedisi Haha/bin/Debug/Ekspedisi Haha.exe.config
+C:/Users/JARVIS/source/repos/Ekspedisi Haha/Ekspedisi Haha/bin/Debug/Ekspedisi Haha.exe
+C:/Users/JARVIS/source/repos/Ekspedisi Haha/Ekspedisi Haha/bin/Debug/Ekspedisi Haha.pdb
+C:/Users/JARVIS/source/repos/Ekspedisi Haha/Ekspedisi Haha/obj/Debug/Ekspedisi Haha.csprojAssemblyReference.cache
+C:/Users/JARVIS/source/repos/Ekspedisi Haha/Ekspedisi Haha/obj/Debug/Ekspedisi_Haha.Form1.resources
+C:/Users/JARVIS/source/repos/Ekspedisi Haha/Ekspedisi Haha/obj/Debug/Ekspedisi_Haha.Properties.Resources.resources
+C:/Users/JARVIS/source/repos/Ekspedisi Haha/Ekspedisi Haha/obj/Debug/Ekspedisi Haha.csproj.GenerateResource.cache
+C:/Users/JARVIS/source/repos/Ekspedisi Haha/Ekspedisi Haha/obj/Debug/Ekspedisi Haha.exe
+C:/Users/JARVIS/source/repos/Ekspedisi Haha/Ekspedisi Haha/obj/Debug/Ekspedisi Haha.pdb
+D:/Semester 4/Pemvis/Ekspedisi Haha/Ekspedisi Haha/bin/Debug/Ekspedisi Haha.exe.config
+D:/Semester 4/Pemvis/Ekspedisi Haha/Ekspedisi Haha/bin/Debug/Ekspedisi Haha.exe
+D:/Semester 4/Pemvis/Ekspedisi Haha/Ekspedisi Haha/bin/Debug/Ekspedisi Haha.pdb
+D:/Semester 4/Pemvis/Ekspedisi Haha/Ekspedisi Haha/obj/Debug/Ekspedisi Haha.csprojAssemblyReference.cache
+D:/Semester 4/Pemvis/Ekspedisi Haha/Ekspedisi Haha/obj/Debug/Ekspedisi_Haha.Form1.resources
+D:/Semester 4/Pemvis/Ekspedisi Haha/Ekspedisi Haha/obj/Debug/Ekspedisi_Haha.Properties.Resources.resources
+D:/Semester 4/Pemvis/Ekspedisi Haha/Ekspedisi Haha/obj/Debug/Ekspedisi Haha.csproj.GenerateResource.cache
+D:/Semester 4/Pemvis/Ekspedisi Haha/Ekspedisi Haha/obj/Debug/Ekspedisi Haha.csproj.CoreCompileInputs.cache
+D:/Semester 4/Pemvis/Ekspedisi Haha/Ekspedisi Haha/obj/Debug/Ekspedisi Haha.exe
+D:/Semester 4/Pemvis/Ekspedisi Haha/Ekspedisi Haha/obj/Debug/Ekspedisi Haha.pdb
+/Users/dimasalexandra/Downloads/Ekspedisi Haha/Ekspedisi Haha/bin/Debug/Ekspedisi Haha.exe.config
+/Users/dimasalexandra/Downloads/Ekspedisi Haha/Ekspedisi Haha/bin/Debug/Ekspedisi Haha.exe
+/Users/dimasalexandra/Downloads/Ekspedisi Haha/Ekspedisi Haha/bin/Debug/Ekspedisi Haha.pdb
+/Users/dimasalexandra/Downloads/Ekspedisi Haha/Ekspedisi Haha/obj/Debug/Ekspedisi Haha.csprojAssemblyReference.cache
+/Users/dimasalexandra/Downloads/Ekspedisi Haha/Ekspedisi Haha/obj/Debug/Ekspedisi_Haha.Form1.resources
+/Users/dimasalexandra/Downloads/Ekspedisi Haha/Ekspedisi Haha/obj/Debug/Ekspedisi_Haha.Properties.Resources.resources
+/Users/dimasalexandra/Downloads/Ekspedisi Haha/Ekspedisi Haha/obj/Debug/Ekspedisi Haha.csproj.GenerateResource.cache
+/Users/dimasalexandra/Downloads/Ekspedisi Haha/Ekspedisi Haha/obj/Debug/Ekspedisi Haha.exe
+/Users/dimasalexandra/Downloads/Ekspedisi Haha/Ekspedisi Haha/obj/Debug/Ekspedisi Haha.pdb
